@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color:  aqua;
 }
     .container{
 
@@ -17,4 +17,13 @@ img{
 figure{
     text-align: center;
 }
-
+.img_topo{
+    width: 100%;
+}
+p{
+    font-size: 2em;
+    color: 	#000080 ;
+    font-weight: bold ;
+    text-indent: 50px;
+    text-align: justify;
+}
