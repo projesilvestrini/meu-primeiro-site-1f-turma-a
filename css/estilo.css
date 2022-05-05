@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-image: url(https://i.pinimg.com/originals/c2/2f/e1/c22fe1c5682a7218d08fd4df1ad24339.png);
     background-repeat: no-repeat;
@@ -29,4 +32,7 @@ p{
     font-weight: bold ;
     text-indent: 50px;
     text-align: justify;
+}
+footer{
+    background-color: black;
 }
