@@ -27,6 +27,8 @@ h1{
 
 img{
     width: 50%;
+    margin: 2%;
+
 }
 
 figure{
@@ -35,7 +37,9 @@ figure{
     margin-bottom: 1,5;
 }
 .img_topo{
-    width: 100%;
+    width: 60%;
+    margin: 2%;
+
 }
 p{
     font-size: 2em;
@@ -45,7 +49,7 @@ p{
     
 }
 a:link {
-    color: red;
+    color: rgb(0, 238, 255);
   }
   
   /* visited link */
@@ -63,10 +67,17 @@ a:link {
     color: blue;
   }a:link {
     text-decoration: none;
+    background-color: red;
   }
   
   a:visited {
     text-decoration: none;
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
   }
   
   a:hover {
@@ -75,4 +86,18 @@ a:link {
   
   a:active {
     text-decoration: underline;
+  
   }
+  .direita{
+    float: right;
+    width: 40%;
+    margin: 2%;
+
+  }
+  .esquerda{
+    float: left;
+    width: 2%;
+  }
+
+  
+ 
