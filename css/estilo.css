@@ -23,11 +23,13 @@ body{
 
 h1{
     text-align: center;
+    font-family: 'Indie Flower', cursive;s
+  
 }
 
 img{
-    width: 50%;
-    margin: 2%;
+    width:50%;
+    margin:2%;
 
 }
 
@@ -45,6 +47,7 @@ p{
     font-size: 2em;
     font-weight: bold ;
     text-indent: 50px;
+    font-family: 'Indie Flower', cursive;
     text-align: justify;
     
 }
