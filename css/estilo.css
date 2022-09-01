@@ -10,14 +10,31 @@ body{
 }
 .container{
 
-    width: 80%;
-    margin: auto;
+  width: 80%;
+  margin: auto;
 }
 .menu{
-     background-color: rgba(red, green, blue, alpha);
-     padding: 2%;
-
+  background-color: rgba(22, 10, 6, 0.3);
+  padding: 2%;
 }
+
+.logo{
+  width: 8%;
+  text-align: center;
+}
+  
+
+
+.itens_menu{
+  text-align: center;
+}
+
+.itens_menu li{
+
+  font-size: 1.3em;
+  line-height: 1.5;
+}
+
 
 
 
@@ -119,6 +136,11 @@ th {
     border: 1px solid #1492a8;
     text-align: center;
     padding: 8px;
+}
+.logo{
+width: 20%;
+text-align: center;
+
 }
 
   
